@@ -4,7 +4,11 @@ The trend on all-sky surveys will provide the scientific community with thousand
 
 Luckily, machine learning provides a solution to both problems. In this work, we present a galaxy image reconstruction approach, which is based on Deep Neural Network called Variational autoencoder. This network can encode a galaxy image in a set of 64 parameters and decode the image back from this representation with minor structural losses, therefore solving the problem of usual parametric fits simplicity. The decoder of the VAE can be used as a model of galaxy image, allowing fitting images with usual fitting algorithms like LMA or MCMC, but with quite high speed. As an example fitting a 64x64 galaxy with BFGS took ~7 sec and resulted in a high-quality fit with reduced 𝜒2≈10^-3. (Assuming Poisson errors)
 
-<img src="https://drive.google.com/uc?export=view&id=1oCESnkXAQUdpcRTlPEkgCfvt8JZq8V4R" width="436" height="186" title="Original image and decoder fit result">
+
+<figure>
+  <img src="https://drive.google.com/uc?export=view&id=1oCESnkXAQUdpcRTlPEkgCfvt8JZq8V4R" width="436" height="186">
+<figcaption>Original image and decoder fit result</figcaption>
+</figure>
 
 Furthermore, using the differentiable programming framework JAX, the VAE could be included in a larger modeling pipeline that is used in studies of gravitational lensing. In these terms the better is understanding of the source, the higher is the amount of information about the lens, that we can extract. Therefore the ability of VAE to provide one with high-quality reconstructions of sources facilitates fitting and studying gravitational lenses.
 
