@@ -16,6 +16,6 @@ Furthermore, using the differentiable programming framework JAX, the VAE could b
 
 
 
-<img src="https://drive.google.com/uc?export=view&id=1MrWtRH-bVK6yyikpGFJcZ4xQKDls5M16" width="979" height="297">
+<img src="https://drive.google.com/uc?export=view&id=1MrWtRH-bVK6yyikpGFJcZ4xQKDls5M16" width="800" height="242">
 
 
