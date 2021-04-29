@@ -7,7 +7,7 @@ Luckily, machine learning provides a solution to both problems. In this work, we
 
 <figure>
   <figtitle>Original image and decoder fit result</figtitle>
-  <img src="https://drive.google.com/uc?export=view&id=1oCESnkXAQUdpcRTlPEkgCfvt8JZq8V4R" width="436" height="186">
+  <img src="./Images/fit_comparison.png" width="436" height="186">
 </figure>
 
 
@@ -16,6 +16,6 @@ Furthermore, using the differentiable programming framework JAX, the VAE could b
 
 
 
-<img src="https://drive.google.com/uc?export=view&id=1MrWtRH-bVK6yyikpGFJcZ4xQKDls5M16" width="800" height="242">
+<img src="./Images/fit_comparison_lensed.png" width="800" height="242">
 
 
