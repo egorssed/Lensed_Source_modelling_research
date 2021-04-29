@@ -10,9 +10,11 @@ Luckily, machine learning provides a solution to both problems. In this work, we
 <figcaption>Original image and decoder fit result</figcaption>
 </figure>
 
+
+
 Furthermore, using the differentiable programming framework JAX, the VAE could be included in a larger modeling pipeline that is used in studies of gravitational lensing. In these terms the better is understanding of the source, the higher is the amount of information about the lens, that we can extract. Therefore the ability of VAE to provide one with high-quality reconstructions of sources facilitates fitting and studying gravitational lenses.
 
-(image comparison of lens fit)
+
 
 <img src="https://drive.google.com/uc?export=view&id=1MrWtRH-bVK6yyikpGFJcZ4xQKDls5M16" width="979" height="297">
 
