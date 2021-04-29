@@ -6,8 +6,8 @@ Luckily, machine learning provides a solution to both problems. In this work, we
 
 
 <figure>
+  <figtitle>Original image and decoder fit result</figtitle>
   <img src="https://drive.google.com/uc?export=view&id=1oCESnkXAQUdpcRTlPEkgCfvt8JZq8V4R" width="436" height="186">
-<figcaption>Original image and decoder fit result</figcaption>
 </figure>
 
 
