@@ -1,4 +1,4 @@
-# Lensed-source-modelling-with-autoencoders-and-differentiable-programming
+# Lensed source modelling with deep neural networks
 
 The trend on all-sky surveys will provide the scientific community with thousands of objects, though it makes scientists look for ways of carrying out and validating the analysis of the images obtained with these wide-field surveys. One of the problems is that the current typical representation of a galaxy relies on a simple parametric fit profile like Sersic or some functional decompositions like wavelets/shapelets/starlets. These approaches have their downsides, for example, simplicity and high degeneracy of Sersic profile or the necessity to calculate high order (~20) decompositions to get complete reconstruction of the galaxy with shapelets. These downsides may result in a tradeoff between fitting quality and fitting time.
 
